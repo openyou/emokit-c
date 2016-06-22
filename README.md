@@ -1,4 +1,4 @@
-Emokit
+Emokit-c
 ======
 
 Emokit-c is a C based library for user space access to the raw stream
